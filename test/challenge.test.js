@@ -58,10 +58,7 @@ describe("Javascript Challenge", () => {
 
   test("Pregunta N6 - biggestCherriesManagers", () => {
     expect(biggestCherriesManagers()).toStrictEqual([
-      'CARLOS PEREZ GONZALEZ',
-      'JOAQUIN ANDRADE SANDOVAL',
-      'JUAN TAPIA BURGOS',
-      'OSCAR PEREZ ZUÑIGA'
+      'EFRAIN SOTO VERA'
     ]);
   });
 
